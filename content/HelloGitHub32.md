@@ -21,22 +21,22 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[nvtop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Syllo/nvtop)：NVIDIA GPU 类 (h)top 的任务监控工具，它可以监控多个 GPU 并以熟悉的方式（类 htop 方式）打印有关它们的信息
+1、[nvtop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Syllo/nvtop)：NVIDIA GPU 类 (h)top 的任务监控工具，它可以监控多个 GPU 并以熟悉的方式（类 htop 方式）打印有关它们的信息
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/94530674.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[os-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cfenollosa/os-tutorial)：（英文）如何从头开始创建操作系统
+2、[os-tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/cfenollosa/os-tutorial)：（英文）如何从头开始创建操作系统
 
 
 ### C# 项目
-3、[QuickLook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QL-Win/QuickLook)：它允许 Windows 用户只需按空格键即可以快速地查看文件内容（类 macOS 的 Quick Look）
+3、[QuickLook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/QL-Win/QuickLook)：它允许 Windows 用户只需按空格键即可以快速地查看文件内容（类 macOS 的 Quick Look）
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/88064357.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
-4、[oatpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oatpp/oatpp)：轻量、高性能、零依赖，纯 C++ 实现的 Web 框架。示例代码片段：
+4、[oatpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oatpp/oatpp)：轻量、高性能、零依赖，纯 C++ 实现的 Web 框架。示例代码片段：
 ```c++
 ENDPOINT("GET", "demo/api/json", getJson) {
   auto dto = MyDto::createShared();
@@ -51,7 +51,7 @@ Output:
 
 
 ### Go 项目
-5、[archiver](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mholt/archiver)：命令行压缩和解压缩工具。终于不用再记 `tar -czvf` 了，使用命令：
+5、[archiver](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mholt/archiver)：命令行压缩和解压缩工具。终于不用再记 `tar -czvf` 了，使用命令：
 ```
 # Syntax: arc archive [archive name] [input files...] 压缩
 
@@ -63,7 +63,7 @@ $ arc unarchive test.tar.gz
 ```
 
 
-6、[athens](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gomods/athens)：Go Modules 下载代理服务，解决国内 Go 装包的痛。妈妈再也不用担心我因为装不上依赖库而不吃饭，使用步骤：
+6、[athens](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gomods/athens)：Go Modules 下载代理服务，解决国内 Go 装包的痛。妈妈再也不用担心我因为装不上依赖库而不吃饭，使用步骤：
 ```
 $ export GO111MODULE=on
 $ export GOPROXY=http://127.0.0.1:3000
@@ -75,12 +75,12 @@ The 🦁 says rawr!
 ```
 
 
-7、[dive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wagoodman/dive)：用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具。启动命令：`dive 镜像名`
+7、[dive](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wagoodman/dive)：用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具。启动命令：`dive 镜像名`
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/133251103.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[go-sniffer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/40t/go-sniffer)：该工具通过抓包截取项目中的数据库、redis 请求解析成相应的语句。便于调试，不要修改代码，直接嗅探项目中的数据请求。使用说明如下：
+8、[go-sniffer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/40t/go-sniffer)：该工具通过抓包截取项目中的数据库、redis 请求解析成相应的语句。便于调试，不要修改代码，直接嗅探项目中的数据请求。使用说明如下：
 ```
 =======================================================================
 [使用说明]
@@ -111,7 +111,7 @@ The 🦁 says rawr!
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/150212148.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[soar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XiaoMi/soar)：SQL 自动优化和改写的工具。可以自动优化 MySQL 语法族，并且给出为什么要这样优化的理由。功能特点：
+9、[soar](https://hellogithub.com/periodical/statistics/click?target=https://github.com/XiaoMi/soar)：SQL 自动优化和改写的工具。可以自动优化 MySQL 语法族，并且给出为什么要这样优化的理由。功能特点：
 - 跨平台支持
 - 目前只支持 MySQL 语法族协议的 SQL 优化
 - 支持基于启发式算法的语句优化
@@ -133,7 +133,7 @@ FROM
 ```
 
 
-10、[websocketd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/joewalnes/websocketd)：把命令行的输出 stdout 和 stderr 重定向为一个 websocket 服务的工具。运行步骤如下：
+10、[websocketd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/joewalnes/websocketd)：把命令行的输出 stdout 和 stderr 重定向为一个 websocket 服务的工具。运行步骤如下：
 1. 安装命令：`brew install websocketd`
 2. 创建 count.sh 内容如下
 3. 运行 count.sh，命令：`./count.sh`
@@ -175,12 +175,12 @@ count.html 文件内容如下
 
 
 ### Java 项目
-11、[ratel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ainilili/ratel)：命令行可联网的斗地主游戏。Ratel 分客户端和服务端，你可以让小伙伴们的客户端都连接你的服务器进行游戏，也可以直接连接作者的公网服务器进行游戏
+11、[ratel](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ainilili/ratel)：命令行可联网的斗地主游戏。Ratel 分客户端和服务端，你可以让小伙伴们的客户端都连接你的服务器进行游戏，也可以直接连接作者的公网服务器进行游戏
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/153278268.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[SpiderMan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simplepeng/SpiderMan)：手机端显示 Android 崩溃日志，示例代码如下：
+12、[SpiderMan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/simplepeng/SpiderMan)：手机端显示 Android 崩溃日志，示例代码如下：
 ```java
 SpiderMan.init(this)
 //设置回调异常信息，友盟等第三方崩溃信息收集平台会用到,
@@ -202,59 +202,34 @@ SpiderMan.init(this)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/130441517.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-13、[hexo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hexojs/hexo)：基于 Node.js 快速、简洁且高效的静态博客生成框架。可以使用 hexo 快速生成静态博客，它拥有丰富的[插件库](https://hexo.io/plugins/)、[主题库](https://hexo.io/themes/)。在使用 hexo 的时候也可以自己创建、定制属于自己的主题
+13、[hexo](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hexojs/hexo)：基于 Node.js 快速、简洁且高效的静态博客生成框架。可以使用 hexo 快速生成静态博客，它拥有丰富的[插件库](https://hexo.io/plugins/)、[主题库](https://hexo.io/themes/)。在使用 hexo 的时候也可以自己创建、定制属于自己的主题
 
 
-14、[picojs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nenadmarkus/picojs)：200 行实现的面部识别库，[在线示例](https://tkv.io/posts/picojs-intro/demo/)
+14、[picojs](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nenadmarkus/picojs)：200 行实现的面部识别库，[在线示例](https://tkv.io/posts/picojs-intro/demo/)
 
 
-15、[storybook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/storybookjs/storybook)：UI 组件开发测试的环境。你可以使用 React、React Native、Vue、Angular、Ember 开发你的组件，并且可以使用 storybook 提供的众多插件进行测试以及开发。[在线示例](https://storybook.js.org/examples/)
+15、[storybook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/storybookjs/storybook)：UI 组件开发测试的环境。你可以使用 React、React Native、Vue、Angular、Ember 开发你的组件，并且可以使用 storybook 提供的众多插件进行测试以及开发。[在线示例](https://storybook.js.org/examples/)
 
 
-16、[three.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mrdoob/three.js)：一个知名的 JavaScript 3D 库。随着数据可视化以及 Web AR 的流行，会越来越多使用到 three.js ，尤其是和 Vue/React 前端框架结合使用。官方网站包含丰富的[示例](https://threejs.org/examples/)和全面的[中文文档](https://threejs.org/docs/)，赶快去写几个 demo 熟悉下该库吧
+16、[three.js](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mrdoob/three.js)：一个知名的 JavaScript 3D 库。随着数据可视化以及 Web AR 的流行，会越来越多使用到 three.js ，尤其是和 Vue/React 前端框架结合使用。官方网站包含丰富的[示例](https://threejs.org/examples/)和全面的[中文文档](https://threejs.org/docs/)，赶快去写几个 demo 熟悉下该库吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/576201.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Objective-C 项目
-17、[MacPass](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MacPass/MacPass)：一款 macOS 平台的免费、开源、实用的密码管理工具
+17、[MacPass](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MacPass/MacPass)：一款 macOS 平台的免费、开源、实用的密码管理工具
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/5129986.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-18、[himawaripy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/boramalper/himawaripy)：一个 Python3 脚本，它会定时（需设置定时任务）抓取由日本 Himawari 8 气象卫星拍摄的接近实时的地球照片，并将它设置成你的桌面背景
+18、[himawaripy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/boramalper/himawaripy)：一个 Python3 脚本，它会定时（需设置定时任务）抓取由日本 Himawari 8 气象卫星拍摄的接近实时的地球照片，并将它设置成你的桌面背景
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/51078774.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-19、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：程序员应该放到收藏夹的网站。[中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
-
-20、[lemonade-stand](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
-
-
-21、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
-
-
-22、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/40389983.png' style="max-width:80%; max-height=80%;"></img></p>
-
-23、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
-
-
-### 开源书籍
-24、[sdn-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feiskyer/sdn-handbook)：有关 SDN 的资料和书籍非常丰富，但入门和学习 SDN 依然是非常困难。该项目整理了 SDN 实践中的一些基本理论和实践案例心得，希望大家看完后有所收获
-
-
-25、[write-you-a-haskell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sdiehl/write-you-a-haskell)：（英文）《Write You a Haskell》
-
-
-### 机器学习
-26、[AIAlpha](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
+### 人工智能
+19、[AIAlpha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VivekPa/AIAlpha)：使用无监督学习和监督学习来预测股票，有趣的项目。运行步骤如下：
 ```
 git clone https://github.com/VivekPa/AlphaAI.git
 cd AlphaAI
@@ -265,20 +240,20 @@ python run.py
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/151904296.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
+20、[awesome-machine-learning](https://hellogithub.com/periodical/statistics/click?target=https://github.com/josephmisiti/awesome-machine-learning)：一个精选的机器学习框架、库、软件的集合项目
 
 
-28、[bert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
+21、[bert](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google-research/bert)：一种新的语言表征模型，来自 Transformer 的双向编码器表征。目前最强 NLP 预训练模型，横扫 11 项 NLP 任务记录
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/154747577.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[deepvariant](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
+22、[deepvariant](https://hellogithub.com/periodical/statistics/click?target=https://github.com/google/deepvariant)：一个数据分析工作流。能够使用深度神经网络从下一代 DNA 序列数据中调用遗传变异体，联想到了最近的基因编辑人类事件。关于如何工作的技术细节，如下图：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/111751293.png' style="max-width:80%; max-height=80%;"></img></p>
 
-30、[fastai](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
+23、[fastai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastai/fastai)：利用当前最好的深度学习算法简化训练神经网络的过程。包含了很多“开箱即用”的工具，支持 Vision、Collab 等模型。示例代码：
 ```python
 # here's how to train an MNIST model using resnet18
 untar_data(MNIST_PATH)
@@ -286,6 +261,31 @@ data = image_data_from_folder(MNIST_PATH)
 learn = create_cnn(data, tvm.resnet18, metrics=accuracy)
 learn.fit(1)
 ```
+
+
+### 其它
+24、[Best-websites-a-programmer-should-visit](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdmg15/Best-websites-a-programmer-should-visit)：程序员应该放到收藏夹的网站。[中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+
+
+25、[lemonade-stand](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nayafia/lemonade-stand)：《开源项目挣钱实用手册》[中文版](https://github.com/wizicer/FinancialSupportForOpenSource)
+
+
+26、[Linux-Tutorial](https://hellogithub.com/periodical/statistics/click?target=https://github.com/judasn/Linux-Tutorial)：Java 程序员眼中的 Linux
+
+
+27、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/32/40389983.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[search-engine-optimization](https://hellogithub.com/periodical/statistics/click?target=https://github.com/marcobiedermann/search-engine-optimization)：（英文）这个项目收集了很多 SEO 优化的建议
+
+
+### 开源书籍
+29、[sdn-handbook](https://hellogithub.com/periodical/statistics/click?target=https://github.com/feiskyer/sdn-handbook)：有关 SDN 的资料和书籍非常丰富，但入门和学习 SDN 依然是非常困难。该项目整理了 SDN 实践中的一些基本理论和实践案例心得，希望大家看完后有所收获
+
+
+30、[write-you-a-haskell](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sdiehl/write-you-a-haskell)：（英文）《Write You a Haskell》
 
 
 
@@ -309,14 +309,13 @@ learn.fit(1)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的全球云服务</sub>
+          <sub>超值的GPU云服务</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

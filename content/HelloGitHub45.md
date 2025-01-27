@@ -21,12 +21,12 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[smartdns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pymumu/smartdns)：一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用，架构图如下：
+1、[smartdns](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pymumu/smartdns)：一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用，架构图如下：
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/130578889.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[xmake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xmake-io/xmake)：一个基于 Lua 的轻量级跨平台自动构建工具。支持在各种主流平台上构建项目，主要用于解决 C/C++ 项目的跨平台构建，同时支持与其他语言的混合编译。工程配置语法简单易读，对初学者友好、上手方便
+2、[xmake](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xmake-io/xmake)：一个基于 Lua 的轻量级跨平台自动构建工具。支持在各种主流平台上构建项目，主要用于解决 C/C++ 项目的跨平台构建，同时支持与其他语言的混合编译。工程配置语法简单易读，对初学者友好、上手方便
 ```bash
 add_requires("libuv master", "ffmpeg", "zlib 1.20.*", "tbox >1.6.1")
 target("test")
@@ -39,21 +39,21 @@ target("test")
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/34431834.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C# 项目
-3、[Blog.Core](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anjoy8/Blog.Core)：基于 ASP.NET Core 和 Vue 从零开始搭建前后端分离项目教程+实战项目。该项目从 .NET Core 基础讲起，内容完整、系统，对初学者和有一定基础的小伙伴都有借鉴和学习的价值
+3、[Blog.Core](https://hellogithub.com/periodical/statistics/click?target=https://github.com/anjoy8/Blog.Core)：基于 ASP.NET Core 和 Vue 从零开始搭建前后端分离项目教程+实战项目。该项目从 .NET Core 基础讲起，内容完整、系统，对初学者和有一定基础的小伙伴都有借鉴和学习的价值
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/145101484.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[Terminal.Gui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gui-cs/Terminal.Gui)：支持 Windows 和 Linux/Unix 的 .NET 终端 UI 工具库。方便实现终端 GUI 工具，并且可以实现终端中用鼠标啦
+4、[Terminal.Gui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gui-cs/Terminal.Gui)：支持 Windows 和 Linux/Unix 的 .NET 终端 UI 工具库。方便实现终端 GUI 工具，并且可以实现终端中用鼠标啦
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/113807330.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++ 项目
-5、[pika](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenAtomFoundation/pika)：一个企业级开源的可持久化的大容量（百G）redis 存储服务。兼容 redis 的绝大部分接口，解决 redis 由于存储数据量巨大而导致内存不够用的容量瓶颈。并且可以像 redis 一样，通过 slaveof 命令进行主从备份，支持全同步和部分同步
+5、[pika](https://hellogithub.com/periodical/statistics/click?target=https://github.com/OpenAtomFoundation/pika)：一个企业级开源的可持久化的大容量（百G）redis 存储服务。兼容 redis 的绝大部分接口，解决 redis 由于存储数据量巨大而导致内存不够用的容量瓶颈。并且可以像 redis 一样，通过 slaveof 命令进行主从备份，支持全同步和部分同步
 
 
-6、[ThreadPool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/progschj/ThreadPool)：一个简单的 C++11 线程池实现，代码加起来不到 100 行。示例代码：
+6、[ThreadPool](https://hellogithub.com/periodical/statistics/click?target=https://github.com/progschj/ThreadPool)：一个简单的 C++11 线程池实现，代码加起来不到 100 行。示例代码：
 ```c++
 // create thread pool with 4 worker threads
 ThreadPool pool(4);
@@ -66,13 +66,13 @@ std::cout << result.get() << std::endl;
 ```
 
 
-7、[xournalpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xournalpp/xournalpp)：一款支持 PDF 手写注释的笔记软件，支持 Linux、Windows、macOS 平台。看书的时候喜欢标注、做笔记，那这款工具肯定适合你。[下载地址](https://github.com/xournalpp/xournalpp/releases)
+7、[xournalpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xournalpp/xournalpp)：一款支持 PDF 手写注释的笔记软件，支持 Linux、Windows、macOS 平台。看书的时候喜欢标注、做笔记，那这款工具肯定适合你。[下载地址](https://github.com/xournalpp/xournalpp/releases)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/11986447.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-8、[gf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gogf/gf)：一款高性能、功能丰富的 Go Web 框架。特点：
+8、[gf](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gogf/gf)：一款高性能、功能丰富的 Go Web 框架。特点：
 - 模块化、松耦合设计
 - 模块丰富，开箱即用
 - 简便及可维护性为宗旨
@@ -83,7 +83,7 @@ std::cout << result.get() << std::endl;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/95761244.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[gods](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/emirpasic/gods)：简单易用的 Go 语言各种数据结构和算法，并封装成了一个库，开箱即食。示例代码：
+9、[gods](https://hellogithub.com/periodical/statistics/click?target=https://github.com/emirpasic/gods)：简单易用的 Go 语言各种数据结构和算法，并封装成了一个库，开箱即食。示例代码：
 ```go
 type Stack interface {
 	Push(value interface{})
@@ -99,12 +99,12 @@ type Stack interface {
 ```
 
 
-10、[goproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goproxyio/goproxy)：Go 模块安装代理工具。还在因为安装 Go 项目依赖失败而抓耳挠腮吗？快试试这个项目吧
+10、[goproxy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/goproxyio/goproxy)：Go 模块安装代理工具。还在因为安装 Go 项目依赖失败而抓耳挠腮吗？快试试这个项目吧
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/146863879.png' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[gowp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xxjwxc/gowp)：Go 高性能异步并发线程池。接口调用简单、支持错误返回、无论排队多少任务，都不会阻止提交任务。可用于控制并发访问、并发执行。示例代码：
+11、[gowp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/xxjwxc/gowp)：Go 高性能异步并发线程池。接口调用简单、支持错误返回、无论排队多少任务，都不会阻止提交任务。可用于控制并发访问、并发执行。示例代码：
 ```go
 package main
 
@@ -133,20 +133,20 @@ func main() {
 ```
 
 
-12、[pg_flame](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mgartner/pg_flame)：Postgres 数据库性能分析工具，把 `EXPLAIN ANALYZE` 结果通过火焰图展示
+12、[pg_flame](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mgartner/pg_flame)：Postgres 数据库性能分析工具，把 `EXPLAIN ANALYZE` 结果通过火焰图展示
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/215655521.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-13、[holer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wisdom-projects/holer)：一个将局域网中的应用映射到公网访问的端口映射软件，支持转发基于 TCP 协议的报文。内网穿透工具，包含 Web 后台管理系统。用到的技术如下：
+13、[holer](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wisdom-projects/holer)：一个将局域网中的应用映射到公网访问的端口映射软件，支持转发基于 TCP 协议的报文。内网穿透工具，包含 Web 后台管理系统。用到的技术如下：
 - 服务端采用 SpringBoot 和 Netty 实现
 - 客户端采用 Java Netty 和 Go 语言实现
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/125614138.png' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/onblog/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
+14、[SnowJena](https://hellogithub.com/periodical/statistics/click?target=https://github.com/onblog/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
 ```java
 public class AppTest {
     Logger logger = LoggerFactory.getLogger(getClass());
@@ -177,7 +177,7 @@ public class AppTest {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/181322928.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-15、[formily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/formily)：一款面向企业级复杂场景的高性能表单解决方案。特性：
+15、[formily](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alibaba/formily)：一款面向企业级复杂场景的高性能表单解决方案。特性：
 - 🚀 高性能，字段分布式渲染，大大减轻 React 渲染压力
 - 💡 支持 Ant Design/Fusion Next 组件体系
 - 🎨 JSX 标签化写法/JSON Schema 数据驱动方案无缝迁移过渡
@@ -187,12 +187,12 @@ public class AppTest {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/164768889.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[hoppscotch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoppscotch/hoppscotch)：一款基于 Node.js 的免费开源、便捷美观的 API 调试工具。它是调试接口的利器，能够尽快的发现问题提高开发效率。相信体会过 Postman 的同学，看到这个项目的名字就已经跃跃欲试了
+16、[hoppscotch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hoppscotch/hoppscotch)：一款基于 Node.js 的免费开源、便捷美观的 API 调试工具。它是调试接口的利器，能够尽快的发现问题提高开发效率。相信体会过 Postman 的同学，看到这个项目的名字就已经跃跃欲试了
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/203587744.png' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[rc-bullets](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/rc-bullets)：基于 CSS3 Animation 使用 React 构建的弹幕组件。[演示地址](http://zerosoul.github.io/rc-bullets)，支持功能：
+17、[rc-bullets](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zerosoul/rc-bullets)：基于 CSS3 Animation 使用 React 构建的弹幕组件。[演示地址](http://zerosoul.github.io/rc-bullets)，支持功能：
 - 管理弹幕：暂停、隐藏、清屏等
 - 设置弹幕：速度、循环次数、延迟播放、自定义动画类型等
 
@@ -247,7 +247,7 @@ export default function Demo() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/223140010.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Summer-andy/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
+18、[react-loading](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Summer-andy/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
 ```javascript
 import React from 'react';
 import { DisappearedLoading } from 'react-loadingg';
@@ -258,13 +258,13 @@ export default Container;
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/219778203.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-19、[react-text-loop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/braposo/react-text-loop)：实现文字循环展示的 React 组件
+19、[react-text-loop](https://hellogithub.com/periodical/statistics/click?target=https://github.com/braposo/react-text-loop)：实现文字循环展示的 React 组件
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/85611345.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin 项目
-20、[SketchyComponent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/SketchyComponent)：一款 Android 上的手绘风格组件库。该库提供了一些基础图形和 icon，以及便捷的自定义能力。之前介绍过手绘风格的图表库大家很喜欢，这回是 Android 组件库不知道对不对大家的胃口。示例代码：
+20、[SketchyComponent](https://hellogithub.com/periodical/statistics/click?target=https://github.com/5A59/SketchyComponent)：一款 Android 上的手绘风格组件库。该库提供了一些基础图形和 icon，以及便捷的自定义能力。之前介绍过手绘风格的图表库大家很喜欢，这回是 Android 组件库不知道对不对大家的胃口。示例代码：
 ```java
 // 1. 创建 Sketchy 图形
 val skSquareDrawable = SkSquareDrawable().apply {
@@ -279,7 +279,7 @@ text.background = skSquareDrawable
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/227990983.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-21、[memory_profiler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonprofilers/memory_profiler)：Python 程序内存占用分析工具。示例代码：
+21、[memory_profiler](https://hellogithub.com/periodical/statistics/click?target=https://github.com/pythonprofilers/memory_profiler)：Python 程序内存占用分析工具。示例代码：
 ```python
 # 采用装饰器的方式引用，不影响现有代码
 @profile
@@ -305,12 +305,12 @@ Line #    Mem usage  Increment   Line Contents
 ```
 
 
-22、[mitmproxy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mitmproxy/mitmproxy)：基于 Python 语言开发的抓包工具。支持命令行、Web 平台的形式展示抓包结果，还能通过 Python 引用库来拦截、控制响应和请求。下图展示为命令行使用界面（类 vim 操作）
+22、[mitmproxy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mitmproxy/mitmproxy)：基于 Python 语言开发的抓包工具。支持命令行、Web 平台的形式展示抓包结果，还能通过 Python 引用库来拦截、控制响应和请求。下图展示为命令行使用界面（类 vim 操作）
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/519832.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[PySimpleGUI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PySimpleGUI/PySimpleGUI)：Python GUI 编程库，它是将 tkinter、Qt、Remi、WxPython 封装成更人性化的接口。示例代码和效果如下：
+23、[PySimpleGUI](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PySimpleGUI/PySimpleGUI)：Python GUI 编程库，它是将 tkinter、Qt、Remi、WxPython 封装成更人性化的接口。示例代码和效果如下：
 ```python
 import PySimpleGUI as sg
 
@@ -335,7 +335,7 @@ window.close()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/140614233.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[PythonPlantsVsZombies](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marblexu/PythonPlantsVsZombies)：Python 语言编写的植物大战僵尸。学习如何使用 Python 编写小游戏的极佳例子，运行步骤：
+24、[PythonPlantsVsZombies](https://hellogithub.com/periodical/statistics/click?target=https://github.com/marblexu/PythonPlantsVsZombies)：Python 语言编写的植物大战僵尸。学习如何使用 Python 编写小游戏的极佳例子，运行步骤：
 ```
 1. 需要 Python 3
 2. 安装依赖库：pip install pygame
@@ -346,44 +346,18 @@ window.close()
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/204939699.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Ruby 项目
-25、[pghero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ankane/pghero)：Postgres 性能监控服务。让你对 pg 数据库的性能了如指掌
+25、[pghero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ankane/pghero)：Postgres 性能监控服务。让你对 pg 数据库的性能了如指掌
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/22059578.png' style="max-width:80%; max-height=80%;"></img></p>
 
-### 其它
-26、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
-
-
-27、[pytest-chinese-doc](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luizyao/pytest-chinese-doc)：pytest 自动化测试框架的官方文档（5.1.3 版本）的中文翻译。但不仅仅是简单的翻译：
-- 更多的示例：所有的示例代码都在 docs 目录下，以章节划分，尽量覆盖每个知识点
-- 更多的拓展阅读：添加了学习时所查阅的资料、阅读的源码等，也是作者学习和思考的历程
-
-
-28、[short_url](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imfycc/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/119340470.png' style="max-width:80%; max-height=80%;"></img></p>
-
-29、[wenyan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
-
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/226726247.png' style="max-width:80%; max-height=80%;"></img></p>
-
-### 开源书籍
-30、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
-
-
-31、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
-
-
-### 机器学习
-32、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/latitudegames/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
+### 人工智能
+26、[AIDungeon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/latitudegames/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/179196443.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[face_recognition](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ageitgey/face_recognition)：上手快速、简单易用的人脸识别库。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。同时提供了一个简单的面部识别命令行工具，允许您对来自命令行的图像文件夹进行面部识别。完整的开发文档和应用案例，并且兼容树莓派系统（对配置要求低），对于初学者来说可以通过这个项目感受人脸识别或机器学习带来的乐趣。示例代码：
+27、[face_recognition](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ageitgey/face_recognition)：上手快速、简单易用的人脸识别库。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。同时提供了一个简单的面部识别命令行工具，允许您对来自命令行的图像文件夹进行面部识别。完整的开发文档和应用案例，并且兼容树莓派系统（对配置要求低），对于初学者来说可以通过这个项目感受人脸识别或机器学习带来的乐趣。示例代码：
 ```python
 # 定位图片中的所有人脸：
 import face_recognition
@@ -399,7 +373,7 @@ face_landmarks_list = face_recognition.face_landmarks(image)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/83844720.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[SSD-Pytorch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatengLG/SSD-Pytorch)：完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。示例代码：
+28、[SSD-Pytorch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/yatengLG/SSD-Pytorch)：完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。示例代码：
 ```python
 # 实例化模型：模型的具体各种参数在 Config 文件中进行配置
 net = SSD(cfg)
@@ -414,6 +388,32 @@ trainer = Trainer(cfg, max_iter=None, batch_size=None,
 # 训练器开始：在数据集上训练模型
 trainer(net, train_dataset)
 ```
+
+
+### 其它
+29、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
+
+
+30、[pytest-chinese-doc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/luizyao/pytest-chinese-doc)：pytest 自动化测试框架的官方文档（5.1.3 版本）的中文翻译。但不仅仅是简单的翻译：
+- 更多的示例：所有的示例代码都在 docs 目录下，以章节划分，尽量覆盖每个知识点
+- 更多的拓展阅读：添加了学习时所查阅的资料、阅读的源码等，也是作者学习和思考的历程
+
+
+31、[short_url](https://hellogithub.com/periodical/statistics/click?target=https://github.com/imfycc/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/119340470.png' style="max-width:80%; max-height=80%;"></img></p>
+
+32、[wenyan](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/226726247.png' style="max-width:80%; max-height=80%;"></img></p>
+
+### 开源书籍
+33、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+
+34、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
 
 
 
@@ -437,14 +437,13 @@ trainer(net, train_dataset)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的全球云服务</sub>
+          <sub>超值的GPU云服务</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>

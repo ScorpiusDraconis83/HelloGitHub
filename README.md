@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d4aae58ddbf34f0799bf3e8f965e0d70&claim_uid=8MKvZoxaWt" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a><br>
   <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
@@ -20,15 +21,15 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 97 期](/content/HelloGitHub97.md) | [第 96 期](/content/HelloGitHub96.md) |
+| [第 106 期](/content/HelloGitHub106.md) |
+| [第 105 期](/content/HelloGitHub105.md) | [第 104 期](/content/HelloGitHub104.md) | [第 103 期](/content/HelloGitHub103.md) | [第 102 期](/content/HelloGitHub102.md) | [第 101 期](/content/HelloGitHub101.md) |
+| [第 100 期](/content/HelloGitHub100.md) | [第 99 期](/content/HelloGitHub99.md) | [第 98 期](/content/HelloGitHub98.md) | [第 97 期](/content/HelloGitHub97.md) | [第 96 期](/content/HelloGitHub96.md) |
 | [第 95 期](/content/HelloGitHub95.md) | [第 94 期](/content/HelloGitHub94.md) | [第 93 期](/content/HelloGitHub93.md) | [第 92 期](/content/HelloGitHub92.md) | [第 91 期](/content/HelloGitHub91.md) |
 | [第 90 期](/content/HelloGitHub90.md) | [第 89 期](/content/HelloGitHub89.md) | [第 88 期](/content/HelloGitHub88.md) | [第 87 期](/content/HelloGitHub87.md) | [第 86 期](/content/HelloGitHub86.md) |
 | [第 85 期](/content/HelloGitHub85.md) | [第 84 期](/content/HelloGitHub84.md) | [第 83 期](/content/HelloGitHub83.md) | [第 82 期](/content/HelloGitHub82.md) | [第 81 期](/content/HelloGitHub81.md) |
 | [第 80 期](/content/HelloGitHub80.md) | [第 79 期](/content/HelloGitHub79.md) | [第 78 期](/content/HelloGitHub78.md) | [第 77 期](/content/HelloGitHub77.md) | [第 76 期](/content/HelloGitHub76.md) |
 | [第 75 期](/content/HelloGitHub75.md) | [第 74 期](/content/HelloGitHub74.md) | [第 73 期](/content/HelloGitHub73.md) | [第 72 期](/content/HelloGitHub72.md) | [第 71 期](/content/HelloGitHub71.md) |
-| [第 70 期](/content/HelloGitHub70.md) | [第 69 期](/content/HelloGitHub69.md) | [第 68 期](/content/HelloGitHub68.md) | [第 67 期](/content/HelloGitHub67.md) | [第 66 期](/content/HelloGitHub66.md) |
-| [第 65 期](/content/HelloGitHub65.md) | [第 64 期](/content/HelloGitHub64.md) | [第 63 期](/content/HelloGitHub63.md) | [第 62 期](/content/HelloGitHub62.md) | [第 61 期](/content/HelloGitHub61.md) |
-| [第 05 期](/content/HelloGitHub05.md) | [第 04 期](/content/HelloGitHub04.md) | [第 03 期](/content/HelloGitHub03.md) | [第 02 期](/content/HelloGitHub02.md) | [第 01 期](/content/HelloGitHub01.md) |
+
 
 欢迎[推荐或自荐](https://hellogithub.com/periodical)项目成为 **HelloGitHub** 的[贡献者](https://github.com/521xueweihan/HelloGitHub/blob/master/content/contributors.md)
 
@@ -39,14 +40,13 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/kuaijiesale.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=github_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
-          <sub>超值的全球云服务</sub>
+          <sub>超值的GPU云服务</sub>
         </a>
       </th>
       <th align="center" style="width: 80px;">
-        <a href="https://www.upyun.com/">
+        <a href="https://www.upyun.com/?from=hellogithub">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/upyun.png" width="60px"><br>
           <sub>CDN</sub><br>
           <sub>开启全网加速</sub>
