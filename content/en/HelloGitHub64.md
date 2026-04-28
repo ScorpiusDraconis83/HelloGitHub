@@ -128,7 +128,7 @@ int main(int argc, char *argv[]) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/313330998.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[etherpad-lite](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ether/etherpad-lite)：支持实时协作的富文本 WYSIWYG 编辑器
+16、[etherpad](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ether/etherpad)：支持实时协作的富文本 WYSIWYG 编辑器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/1529160.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -269,7 +269,7 @@ alert.show()
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/11152831.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[developer-roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kamranahmedse/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+33、[developer-roadmap](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/nilbuild/developer-roadmap)：开发者学习路线图。这是一份包含后端、前端、运维部署等方向的学习路径图，帮你指明前进的方向。[中文](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/85077558.png' style="max-width:80%; max-height=80%;"></img></p>

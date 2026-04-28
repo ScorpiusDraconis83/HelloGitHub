@@ -216,7 +216,7 @@ print(f"Result: R17 = {cpu.read_reg(17)}")  # Final Fibonacci number
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/983779325.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-31、[char](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastrepl/char)：本地优先的 AI 笔记和会议助手。这是一款可离线运行的 AI 智能笔记和会议记录应用，通过接入 Ollama 可实现语音转录到摘要生成全程在本地完成，支持会议录音、实时转录、笔记整理和智能摘要等功能。
+31、[anarlog](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fastrepl/anarlog)：本地优先的 AI 笔记和会议助手。这是一款可离线运行的 AI 智能笔记和会议记录应用，通过接入 Ollama 可实现语音转录到摘要生成全程在本地完成，支持会议录音、实时转录、笔记整理和智能摘要等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/900550981.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -247,13 +247,13 @@ if __name__ == '__main__':
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/679343504.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[droidrun](https://hellogithub.com/periodical/statistics/click?target=https://github.com/droidrun/droidrun)：用自然语言操控你的手机。这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主流大模型。使用时需要在手机上安装 DroidRun Portal，用来收集 UI 信息并执行操作命令，然后通过 ADB 将信息传给电脑上的 DroidRun 框架，由它与 LLM 交互并给出执行指令。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/965313467.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-34、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
+33、[Everywhere](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DearVa/Everywhere)：随手可用的 AI 桌面助手。这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务。来自 [@Dear.Va](https://hellogithub.com/user/LNYEf6O9Qv5JeR2) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/971243074.png' style="max-width:80%; max-height=80%;"></img></p>
+
+34、[mobilerun](https://hellogithub.com/periodical/statistics/click?target=https://github.com/droidrun/mobilerun)：用自然语言操控你的手机。这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主流大模型。使用时需要在手机上安装 DroidRun Portal，用来收集 UI 信息并执行操作命令，然后通过 ADB 将信息传给电脑上的 DroidRun 框架，由它与 LLM 交互并给出执行指令。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/116/965313467.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 35、[next-ai-draw-io](https://hellogithub.com/periodical/statistics/click?target=https://github.com/DayuanJiang/next-ai-draw-io)：让 AI 替你画架构图。这是一个基于 Next.js 构建的 Web 应用，融合了 AI 与 draw.io 图表绘制能力。现在你可以通过对话直接生成、编辑、优化流程图和架构图，支持流动效果连线、截图复刻、历史版本等功能。来自 [@喜BFoCE](https://hellogithub.com/user/Fzr3vHc5AxqYUVj) 的分享
 

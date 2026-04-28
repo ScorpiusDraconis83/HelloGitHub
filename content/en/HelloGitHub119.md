@@ -94,7 +94,7 @@ print(results)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157577714.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[Surge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/surge-downloader/Surge)：High-Speed Download Tool for Terminal.This is a terminal download tool developed in Go language, which can automatically split downloaded files into multiple data chunks for parallel download, and supports features such as downloading from multiple mirror sources, automatic failover, and sequential download mode.Shared by [@Meet Mehta](https://hellogithub.com/en/user/AB7OfuhyiEqmkZv)
+9、[Surge](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/SurgeDM/Surge)：High-Speed Download Tool for Terminal.This is a terminal download tool developed in Go language, which can automatically split downloaded files into multiple data chunks for parallel download, and supports features such as downloading from multiple mirror sources, automatic failover, and sequential download mode.Shared by [@Meet Mehta](https://hellogithub.com/en/user/AB7OfuhyiEqmkZv)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1085475816.gif' style="max-width:80%; max-height=80%;"></img></p>
 

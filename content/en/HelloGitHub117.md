@@ -72,7 +72,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 </div>
 ```
 
-14、[ChatLab](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/hellodigua/ChatLab)：Out-of-the-Box Chat Log Analysis Tool.This is a locally-first chat log analysis tool that doesn't require uploading data to the cloud (except for AI functions), and supports SQL queries, AI intelligent mining, and reviewing personal chat historiesShared by [@地瓜](https://hellogithub.com/en/user/WBtGbD6wLYzy52A)
+14、[ChatLab](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ChatLab/ChatLab)：Out-of-the-Box Chat Log Analysis Tool.This is a locally-first chat log analysis tool that doesn't require uploading data to the cloud (except for AI functions), and supports SQL queries, AI intelligent mining, and reviewing personal chat historiesShared by [@地瓜](https://hellogithub.com/en/user/WBtGbD6wLYzy52A)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1104370536.png' style="max-width:80%; max-height=80%;"></img></p>
 

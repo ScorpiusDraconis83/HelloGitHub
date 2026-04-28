@@ -114,7 +114,7 @@ Assertions.assertEquals("b", b.getColumnName());
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/675901913.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript 项目
-16、[papermark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/mfts/papermark)：开源的文件分享平台。该项目作为 DocSend 服务的开源替代方案，提供了自托管、简单易用的文档分享功能。它采用 Next.js+Tailwind CSS 构建，用户仅需上传文档，就能获得一个可在线访问文件内容的地址，并支持自定义域名和访问数据追踪等功能。
+16、[papermark](https://hellogithub.com/periodical/statistics/click?target=https://github.com/papermark/papermark)：开源的文件分享平台。该项目作为 DocSend 服务的开源替代方案，提供了自托管、简单易用的文档分享功能。它采用 Next.js+Tailwind CSS 构建，用户仅需上传文档，就能获得一个可在线访问文件内容的地址，并支持自定义域名和访问数据追踪等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/646985602.gif' style="max-width:80%; max-height=80%;"></img></p>
 

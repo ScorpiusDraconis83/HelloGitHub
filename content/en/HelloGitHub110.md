@@ -40,7 +40,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/709258942.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[PlotJuggler](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/facontidavide/PlotJuggler)：Professional-level Time Series Data Visualization Tool.This is an open-source time series data visualization tool that supports multiple data formats such as CSV, ROS, ULog, and MQTT, as well as real-time data streams. It has a simple and easy-to-use interface and can quickly process a large amount of data. It is suitable for various data analysis scenarios such as robotics, autonomous driving, the Internet of Things, and experimental science.
+7、[PlotJuggler](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/PlotJuggler/PlotJuggler)：Professional-level Time Series Data Visualization Tool.This is an open-source time series data visualization tool that supports multiple data formats such as CSV, ROS, ULog, and MQTT, as well as real-time data streams. It has a simple and easy-to-use interface and can quickly process a large amount of data. It is suitable for various data analysis scenarios such as robotics, autonomous driving, the Internet of Things, and experimental science.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/52909975.gif' style="max-width:80%; max-height=80%;"></img></p>
 

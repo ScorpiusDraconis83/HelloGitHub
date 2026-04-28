@@ -69,7 +69,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/120/1134144797.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-12、[floci](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hectorvent/floci)：开箱即用的 AWS 本地模拟器。这是一款免费、开源的 AWS 本地模拟器，帮助开发者在本地开发和测试 AWS 应用，它启动快、占用少、无需账号，仅需一条命令就能在本地启动 20 多种 AWS 服务的模拟环境。
+12、[floci](https://hellogithub.com/periodical/statistics/click?target=https://github.com/floci-io/floci)：开箱即用的 AWS 本地模拟器。这是一款免费、开源的 AWS 本地模拟器，帮助开发者在本地开发和测试 AWS 应用，它启动快、占用少、无需账号，仅需一条命令就能在本地启动 20 多种 AWS 服务的模拟环境。
 
 13、[openclaw-android](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AidanPark/openclaw-android)：在 Android 上运行 OpenClaw。该项目提供两种在 Android 手机上运行 OpenClaw 智能体平台（非客户端）的方式。可通过 Termux 安装 glibc 动态链接器直接部署 Linux 二进制文件，也可通过直接安装打包好的 Android 应用实现一键安装 OpenClaw，后者不需要安装 Termux。
 
@@ -189,7 +189,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub119.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub119.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub121.md">『下一期』</a>
 </p>
 
 ---

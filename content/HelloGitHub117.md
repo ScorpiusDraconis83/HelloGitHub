@@ -79,7 +79,7 @@
 </div>
 ```
 
-14、[ChatLab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/hellodigua/ChatLab)：开箱即用的聊天记录分析工具。这是一款本地优先的聊天记录分析工具，无需上传数据到云端（AI 功能除外），支持 SQL 查询和 AI 智能挖掘、回顾个人聊天历史。来自 [@地瓜](https://hellogithub.com/user/WBtGbD6wLYzy52A) 的分享
+14、[ChatLab](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ChatLab/ChatLab)：开箱即用的聊天记录分析工具。这是一款本地优先的聊天记录分析工具，无需上传数据到云端（AI 功能除外），支持 SQL 查询和 AI 智能挖掘、回顾个人聊天历史。来自 [@地瓜](https://hellogithub.com/user/WBtGbD6wLYzy52A) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/117/1104370536.png' style="max-width:80%; max-height=80%;"></img></p>
 

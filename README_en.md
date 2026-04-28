@@ -24,6 +24,7 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [NO.121](/content/en/HelloGitHub121.md) |
 | [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitHub117.md) | [NO.116](/content/en/HelloGitHub116.md) |
 | [NO.115](/content/en/HelloGitHub115.md) | [NO.114](/content/en/HelloGitHub114.md) | [NO.113](/content/en/HelloGitHub113.md) | [NO.112](/content/en/HelloGitHub112.md) | [NO.111](/content/en/HelloGitHub111.md) |
 | [NO.110](/content/en/HelloGitHub110.md) | [NO.109](/content/en/HelloGitHub109.md) | [NO.108](/content/en/HelloGitHub108.md) | [NO.107](/content/en/HelloGitHub107.md) | [NO.106](/content/en/HelloGitHub106.md) |
@@ -31,7 +32,6 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 | [NO.100](/content/en/HelloGitHub100.md) | [NO.99](/content/en/HelloGitHub99.md) | [NO.98](/content/en/HelloGitHub98.md) | [NO.97](/content/en/HelloGitHub97.md) | [NO.96](/content/en/HelloGitHub96.md) |
 | [NO.95](/content/en/HelloGitHub95.md) | [NO.94](/content/en/HelloGitHub94.md) | [NO.93](/content/en/HelloGitHub93.md) | [NO.92](/content/en/HelloGitHub92.md) | [NO.91](/content/en/HelloGitHub91.md) |
 | [NO.90](/content/en/HelloGitHub90.md) | [NO.89](/content/en/HelloGitHub89.md) | [NO.88](/content/en/HelloGitHub88.md) | [NO.87](/content/en/HelloGitHub87.md) | [NO.86](/content/en/HelloGitHub86.md) |
-| [NO.85](/content/en/HelloGitHub85.md) | [NO.84](/content/en/HelloGitHub84.md) | [NO.83](/content/en/HelloGitHub83.md) | [NO.82](/content/en/HelloGitHub82.md) | [NO.81](/content/en/HelloGitHub81.md) |
 
 
 ## Licence

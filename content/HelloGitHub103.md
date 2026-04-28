@@ -232,7 +232,7 @@ fn test_split_words() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/103/809906907.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-32、[moondream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/vikhyat/moondream)：小型的视觉语言模型。这是一个可在资源受限的设备上运行的小型视觉语言模型，它能够理解并生成与图像相关的自然语言描述，支持图像识别、生成描述和问答等功能。
+32、[moondream](https://hellogithub.com/periodical/statistics/click?target=https://github.com/m87-labs/moondream)：小型的视觉语言模型。这是一个可在资源受限的设备上运行的小型视觉语言模型，它能够理解并生成与图像相关的自然语言描述，支持图像识别、生成描述和问答等功能。
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from PIL import Image

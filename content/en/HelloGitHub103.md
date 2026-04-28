@@ -225,7 +225,7 @@ fn test_split_words() {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/103/809906907.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[moondream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/vikhyat/moondream)：Compact Vision-Language Model. This is a compact vision-language model designed to operate on resource-constrained devices. It can understand and generate natural language descriptions related to images, supporting image recognition, description generation, and question-answering features.
+32、[moondream](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/m87-labs/moondream)：Compact Vision-Language Model. This is a compact vision-language model designed to operate on resource-constrained devices. It can understand and generate natural language descriptions related to images, supporting image recognition, description generation, and question-answering features.
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from PIL import Image

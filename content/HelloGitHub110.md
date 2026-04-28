@@ -47,7 +47,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/709258942.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[PlotJuggler](https://hellogithub.com/periodical/statistics/click?target=https://github.com/facontidavide/PlotJuggler)：专业级时间序列数据可视化工具。这是一款开源的时间序列数据可视化工具，支持 CSV、ROS、ULog、MQTT 等多种数据格式及实时数据流。它拥有简单易用的界面，能够快速处理大量数据，适用于机器人、自动驾驶、物联网、实验科学等多种数据分析场景。
+7、[PlotJuggler](https://hellogithub.com/periodical/statistics/click?target=https://github.com/PlotJuggler/PlotJuggler)：专业级时间序列数据可视化工具。这是一款开源的时间序列数据可视化工具，支持 CSV、ROS、ULog、MQTT 等多种数据格式及实时数据流。它拥有简单易用的界面，能够快速处理大量数据，适用于机器人、自动驾驶、物联网、实验科学等多种数据分析场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/110/52909975.gif' style="max-width:80%; max-height=80%;"></img></p>
 

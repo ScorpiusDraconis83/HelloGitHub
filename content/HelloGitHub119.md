@@ -101,7 +101,7 @@ print(results)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1157577714.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[Surge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/surge-downloader/Surge)：终端里的高速下载工具。这是一款采用 Go 语言开发的终端下载工具，可将下载文件自动切分为多个数据块并行下载，支持从多个镜像源下载、自动故障转移、顺序下载模式等功能。来自 [@Meet Mehta](https://hellogithub.com/user/AB7OfuhyiEqmkZv) 的分享
+9、[Surge](https://hellogithub.com/periodical/statistics/click?target=https://github.com/SurgeDM/Surge)：终端里的高速下载工具。这是一款采用 Go 语言开发的终端下载工具，可将下载文件自动切分为多个数据块并行下载，支持从多个镜像源下载、自动故障转移、顺序下载模式等功能。来自 [@Meet Mehta](https://hellogithub.com/user/AB7OfuhyiEqmkZv) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/119/1085475816.gif' style="max-width:80%; max-height=80%;"></img></p>
 

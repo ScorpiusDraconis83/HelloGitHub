@@ -237,11 +237,15 @@ with Diagram("Advanced Web Service with On-Premise", show=False):
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/237791077.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[labelImg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HumanSignal/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
+27、[fg-data-profiling](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Data-Centric-AI-Community/fg-data-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/49346299.png' style="max-width:80%; max-height=80%;"></img></p>
+
+28、[labelImg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HumanSignal/labelImg)：图形化界面的图像标注工具。用 Python 和 Qt 编写的图像标注桌面应用，简单方便下载就能用，适用于 Windows、Linux、macOS。标注数据支持 PASCAL VOC 格式的 XML 文件和 YOLO 的 txt 文件。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/42625970.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[MechanicalSoup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MechanicalSoup/MechanicalSoup)：自动与网站交互的轻量级 Python 库。我们写爬虫一般是请求+解析两步走，该项目将 Requests(请求) 和 BeautifulSoup(解析) 两大 Python 爬虫常用库，封装成一个浏览器对象(StatefulBrowser)，将上面说的两步并成一步。后面仅需一个浏览器对象，就可以完成请求页面、过滤内容、提交表单、跳转地址等操作，使得代码更加简单、操作更加方便。又因为它不依赖浏览器进程，所以相较于 Selenium 它更加轻巧，但缺点是不支持 JS 动态渲染的页面。
+29、[MechanicalSoup](https://hellogithub.com/periodical/statistics/click?target=https://github.com/MechanicalSoup/MechanicalSoup)：自动与网站交互的轻量级 Python 库。我们写爬虫一般是请求+解析两步走，该项目将 Requests(请求) 和 BeautifulSoup(解析) 两大 Python 爬虫常用库，封装成一个浏览器对象(StatefulBrowser)，将上面说的两步并成一步。后面仅需一个浏览器对象，就可以完成请求页面、过滤内容、提交表单、跳转地址等操作，使得代码更加简单、操作更加方便。又因为它不依赖浏览器进程，所以相较于 Selenium 它更加轻巧，但缺点是不支持 JS 动态渲染的页面。
 ```python
 import re
 import mechanicalsoup
@@ -270,13 +274,9 @@ for link in browser.links():
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/20180433.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[orange3](https://hellogithub.com/periodical/statistics/click?target=https://github.com/biolab/orange3)：互动式数据分析桌面工具。一款面向不会编程人群的数据挖掘和数据可视化工具箱。内置多种图表类型、支持可视化编程，无需写代码即可做出简单、实用的数据分析软件，多用于教学和实验室等场景。
+30、[orange3](https://hellogithub.com/periodical/statistics/click?target=https://github.com/biolab/orange3)：互动式数据分析桌面工具。一款面向不会编程人群的数据挖掘和数据可视化工具箱。内置多种图表类型、支持可视化编程，无需写代码即可做出简单、实用的数据分析软件，多用于教学和实验室等场景。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/8357227.png' style="max-width:80%; max-height=80%;"></img></p>
-
-30、[ydata-profiling](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Data-Centric-AI-Community/ydata-profiling)：能够自动生成 pandas DataFrame 分析报告的库。虽然 pandas 自带的 df.describe 函数可以方便地生成统计报告，但是信息较少。该项目能够自动生成一份 df 多维度的 HTML 分析报告，包含列的类型、缺失情况、数值分布、行重复率、占用内存大小等信息，有助于更好地了解数据情况。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/76/49346299.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust 项目
 31、[pueue](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Nukesor/pueue)：命令行任务管理工具。一个处理 shell 命令队列的工具，支持后台执行、定时执行、任务并行、暂停任务、任务崩溃恢复等功能。但它只是一个命令行工具，不能当作任务队列来用。

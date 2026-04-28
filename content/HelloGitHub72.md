@@ -352,7 +352,7 @@ class PreprocImg(Executor):
 29、[blog_os](https://hellogithub.com/periodical/statistics/click?target=https://github.com/phil-opp/blog_os)：用 Rust 从零开发一个操作系统的教程。保姆级教程！从空文件夹开始，一步步搭建开发环境，通过原理描述、代码示例讲解操作系统背后的原理。硬要说缺点的话就是教程是英文的，但是配上代码示例读起来不是很费劲。[中文](https://os.phil-opp.com/zh-CN/)
 
 
-30、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/kamranahmedse/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
+30、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nilbuild/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/82227585.png' style="max-width:80%; max-height=80%;"></img></p>
